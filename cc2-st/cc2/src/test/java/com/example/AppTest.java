@@ -101,7 +101,7 @@ public class AppTest
         } else {
             System.out.println("Item is not inserted into the cart");
         }
-
+         logger.info("TestCase 2 has been passed successfully!");
     }
 
 
